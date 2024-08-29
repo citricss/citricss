@@ -2,7 +2,7 @@
 
  O meu nome é Victor Nardez 
 
- - Estou estudando n alura, 
+ - Estou estudando na alura, 
  - Estou me desenvolvendo na linguagem javaScript
  - Utilizo esse espaço para minha organização e comparilhamento dos meus projetos desenvolvidos 
 
